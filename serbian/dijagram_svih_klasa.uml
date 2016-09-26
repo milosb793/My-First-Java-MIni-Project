@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement>takmicenje.Administrator</OriginalElement>
+  <nodes>
+    <node x="238.5" y="0.0">takmicenje.Korisnik</node>
+    <node x="369.0" y="596.0">takmicenje.BPKonekcija</node>
+    <node x="720.0" y="591.5714285714286">takmicenje.Program</node>
+    <node x="0.0" y="596.0">takmicenje.Metode</node>
+    <node x="-68.57142857142856" y="407.2857142857143">takmicenje.Takmicar</node>
+    <node x="700.2857142857142" y="397.14285714285717">takmicenje.Administrator</node>
+    <node x="270.0" y="389.0">takmicenje.Komisija</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="takmicenje.Komisija" target="takmicenje.Korisnik">
+      <point x="0.0" y="-81.0" />
+      <point x="0.0" y="169.5" />
+    </edge>
+    <edge source="takmicenje.Administrator" target="takmicenje.Korisnik">
+      <point x="0.0" y="-70.0" />
+      <point x="783.0" y="364.0" />
+      <point x="562.6666666666666" y="364.0" />
+      <point x="129.66666666666663" y="169.5" />
+    </edge>
+    <edge source="takmicenje.Takmicar" target="takmicenje.Korisnik">
+      <point x="0.0" y="-37.0" />
+      <point x="125.0" y="364.0" />
+      <point x="303.33333333333337" y="364.0" />
+      <point x="-129.66666666666663" y="169.5" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic Group" zoom="0.7000000000000001" x="465.2857142857142" y="611.7142857142857" />
+  <SelectedNodes>
+    <node>takmicenje.Komisija</node>
+  </SelectedNodes>
+  <Categories>
+    <Category>Fields</Category>
+    <Category>Constructors</Category>
+    <Category>Methods</Category>
+    <Category>Properties</Category>
+    <Category>Inner Classes</Category>
+  </Categories>
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+
